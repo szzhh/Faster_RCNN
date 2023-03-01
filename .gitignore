@@ -1,0 +1,9 @@
+# Default ignored files
+/foldername/
+.idea
+backbone/fasterrcnn_resnet50_fpn_coco.pth
+backbone/mobilenet_v2.pth
+test1
+test2
+test3
+test4
